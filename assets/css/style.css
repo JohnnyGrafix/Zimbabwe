@@ -7,6 +7,11 @@ body {
 	max-width: 600px;
 	padding-top: 8px;
 }
+.mainText {
+	position: absolute;
+	font-size: 1.5rem;
+	color: white;
+}
 .buttons {
 	width: 20%;
 }
@@ -16,11 +21,6 @@ body {
 .buttonDiv {
 	position: relative;
 	height:100px;
-}
-.mainText {
-	position: absolute;
-	font-size: 1.5rem;
-	color: white;
 }
 #mugabe1 {
 	width: 100%;
@@ -35,7 +35,6 @@ body {
 	position: absolute;
 	left: 75%;
 }
-
 #mugabe2 {
 	width: 100%;
 }
@@ -77,4 +76,212 @@ body {
 	position: absolute;
 	left: 5%;
 }
-
+#chiwenga1 {
+	width: 100%;
+}
+#p4Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p4Text2 {
+	position: absolute;
+	top: 30%;
+	left: 61%;
+}
+#p4Text3 {
+	position: absolute;
+	top: 65%;
+	left: 5%;
+}
+#forward4 {
+	position: absolute;
+	left: 75%;
+}
+#back4 {
+	position: absolute;
+	left: 39%;
+}
+#home4 {
+	position: absolute;
+	left: 5%;
+}
+#mugabe3 {
+	width: 100%;
+}
+#p5Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p5Text2 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+}
+#p5Text3 {
+	position: absolute;
+	top: 72%;
+	left: 14%;
+}
+#forward5 {
+	position: absolute;
+	left: 75%;
+}
+#back5 {
+	position: absolute;
+	left: 39%;
+}
+#home5 {
+	position: absolute;
+	left: 5%;
+}
+#crowd1 {
+	width: 100%;
+}
+#p6Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p5Text2 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+}
+#p6Text3 {
+	position: absolute;
+	top: 70%;
+	left: 6%;
+}
+#forward6 {
+	position: absolute;
+	left: 75%;
+}
+#back6 {
+	position: absolute;
+	left: 39%;
+}
+#home6 {
+	position: absolute;
+	left: 5%;
+}
+#party1 {
+	width: 100%;
+}
+#p7Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p5Text2 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+}
+#p7Text3 {
+	position: absolute;
+	top: 68%;
+	left: 10%;
+}
+#forward7 {
+	position: absolute;
+	left: 75%;
+}
+#back7 {
+	position: absolute;
+	left: 39%;
+}
+#home7 {
+	position: absolute;
+	left: 5%;
+}
+#mnangagwa1 {
+	width: 100%;
+}
+#p8Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p5Text2 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+}
+#p8Text3 {
+	position: absolute;
+	top: 72%;
+	left: 10%;
+}
+#forward8 {
+	position: absolute;
+	left: 75%;
+}
+#back8 {
+	position: absolute;
+	left: 39%;
+}
+#home8 {
+	position: absolute;
+	left: 5%;
+}
+#mugabe4 {
+	width: 100%;
+}
+#p9Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p5Text2 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+}
+#p9Text3 {
+	position: absolute;
+	top: 69%;
+	left: 5%;
+}
+#forward9 {
+	position: absolute;
+	left: 75%;
+}
+#back9 {
+	position: absolute;
+	left: 39%;
+}
+#home9 {
+	position: absolute;
+	left: 5%;
+}
+#crowd2 {
+	width: 100%;
+}
+#p10Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+	color: black;
+}
+#p5Text2 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+}
+#p10Text3 {
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	color: black;
+	font-size: 1.5rem;
+}
+#back10 {
+	position: absolute;
+	left: 39%;
+}
+#home10 {
+	position: absolute;
+	left: 5%;
+}
