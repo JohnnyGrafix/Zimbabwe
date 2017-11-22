@@ -1,5 +1,80 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	color: #58595B;
-	font-size: 2rem;
 }
+#pages {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	padding-top: 8px;
+}
+.buttons {
+	width: 20%;
+}
+.buttons:hover {
+	width: 21%;
+}
+.buttonDiv {
+	position: relative;
+	height:100px;
+}
+.mainText {
+	position: absolute;
+	font-size: 1.5rem;
+	color: white;
+}
+#mugabe1 {
+	width: 100%;
+}
+#p1Text1 {
+	position: absolute;
+	top: 6%;
+	left: 16%;
+}
+
+#forward1 {
+	position: absolute;
+	left: 75%;
+}
+
+#mugabe2 {
+	width: 100%;
+}
+#p2Text1 {
+	position: absolute;
+	top: 0%;
+	left: 33%;
+}
+#p2Text2 {
+	position: absolute;
+	top: 72%;
+	left: 7%;
+}
+#forward2 {
+	position: absolute;
+	left: 75%;
+}
+#back2 {
+	position: absolute;
+	left: 5%;
+}
+#grace1 {
+	width: 100%;
+}
+#p3Text2 {
+	position: absolute;
+	top: 72%;
+	left: 14%;
+}
+#forward3 {
+	position: absolute;
+	left: 75%;
+}
+#back3 {
+	position: absolute;
+	left: 39%;
+}
+#home3 {
+	position: absolute;
+	left: 5%;
+}
+
